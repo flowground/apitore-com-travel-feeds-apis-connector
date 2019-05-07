@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+        "access_token": {
+            "required": true,
+            "type": "string"
+        },
+        "page": {
+            "required": false,
+            "type": "integer",
+            "format": "int32",
+            "default": 1
+        }
+    }
+}
