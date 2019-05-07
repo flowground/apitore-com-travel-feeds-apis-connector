@@ -1,11 +1,11 @@
-# ![LOGO](logo.png) Travel feeds APIs MSP Connector
+# ![LOGO](logo.png) Travel feeds APIs **flow**ground Connector
 
 ## Description
 
-A generated MSP connector for the Travel feeds APIs API (version 0.0.1).
+A generated **flow**ground connector for the Travel feeds APIs API (version 0.0.1).
 
 Generated from: https://api.apis.guru/v2/specs/apitore.com/travelFeedsApis/0.0.1/swagger.json<br/>
-Generated at: 2019-05-07T11:17:05+03:00
+Generated at: 2019-05-07T17:36:45+03:00
 
 ## API Description
 
@@ -29,7 +29,7 @@ This API does not require authorization.
 
 ## License
 
-flowground :- Telekom iPaaS / apitore-com-travel-feeds-apis-connector<br/>
+**flow**ground :- Telekom iPaaS / apitore-com-travel-feeds-apis-connector<br/>
 Copyright © 2019, [Deutsche Telekom AG](https://www.telekom.de)<br/>
 contact: flowground@telekom.de
 
